@@ -1,0 +1,103 @@
+{
+  "1": {
+      "type": "mcq",
+      "question": "Unscramble the letters to make a word: paS",
+      "options": [
+          "lab",
+          "lit",
+          "nut",
+          "Sap"
+      ],
+      "answer": "Sap"
+  },
+  "2": {
+      "type": "mcq",
+      "question": "Which letter fits the blank? _is",
+      "options": [
+          "k",
+          "t",
+          "S",
+          "t"
+      ],
+      "answer": "S"
+  },
+  "3": {
+      "type": "mcq",
+      "question": "Does the word 'let' have the /s/ sound?",
+      "options": [
+          "Yes",
+          "No"
+      ],
+      "answer": "No"
+  },
+  "4": {
+      "type": "reading",
+      "question": "Please read this out loud: Lap is warm.",
+      "options": [],
+      "answer": ""
+  },
+  "5": {
+      "type": "image",
+      "question": "pictures\\salt.jpg",
+      "options": [
+          "fat",
+          "rot",
+          "Salt",
+          "kid"
+      ],
+      "answer": "Salt"
+  },
+  "6": {
+      "type": "mcq",
+      "question": "Does the word 'year' have the /s/ sound?",
+      "options": [
+          "Yes",
+          "No"
+      ],
+      "answer": "No"
+  },
+  "7": {
+      "type": "mcq",
+      "question": "Which of these words starts with the /s/ sound?",
+      "options": [
+          "nap",
+          "zoo",
+          "Sid",
+          "wax"
+      ],
+      "answer": "Sid"
+  },
+  "8": {
+      "type": "mcq",
+      "question": "Which word rhymes with 'sit'?",
+      "options": [
+          "hit",
+          "cop",
+          "pop",
+          "cozy"
+      ],
+      "answer": "hit"
+  },
+  "9": {
+      "type": "image",
+      "question": "pictures\\car.png",
+      "options": [
+          "man",
+          "kip",
+          "car",
+          "Sit"
+      ],
+      "answer": "car"
+  },
+  "10": {
+      "type": "mcq",
+      "question": "Which word rhymes with 'Sid'?",
+      "options": [
+          "kid",
+          "fox",
+          "pin",
+          "Sit"
+      ],
+      "answer": "kid"
+  }
+}

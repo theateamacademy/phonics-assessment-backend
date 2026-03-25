@@ -1,0 +1,129 @@
+{
+    "word_error": 2,
+    "word_error_list": [
+      {
+        "word": "Elsa",
+        "score": 7
+      },
+      {
+        "word": "dance!",
+        "score": 90
+      }
+    ],
+    "verb_error": 0,
+    "verb_error_list": [],
+    "article_error": 0,
+    "article_error_list": [],
+    "phoneme_scores": [
+      {
+        "word": "Elsa",
+        "phonemes": [
+          {
+            "phoneme": "ɛ",
+            "score": 58
+          },
+          {
+            "phoneme": "l",
+            "score": 38
+          },
+          {
+            "phoneme": "s",
+            "score": 1
+          },
+          {
+            "phoneme": "ə",
+            "score": 3
+          }
+        ]
+      },
+      {
+        "word": "likes",
+        "phonemes": [
+          {
+            "phoneme": "l",
+            "score": 99
+          },
+          {
+            "phoneme": "aɪ",
+            "score": 100
+          },
+          {
+            "phoneme": "k",
+            "score": 100
+          },
+          {
+            "phoneme": "s",
+            "score": 100
+          }
+        ]
+      },
+      {
+        "word": "to",
+        "phonemes": [
+          {
+            "phoneme": "t",
+            "score": 100
+          },
+          {
+            "phoneme": "u",
+            "score": 100
+          }
+        ]
+      },
+      {
+        "word": "sing",
+        "phonemes": [
+          {
+            "phoneme": "s",
+            "score": 100
+          },
+          {
+            "phoneme": "ɪ",
+            "score": 100
+          },
+          {
+            "phoneme": "ŋ",
+            "score": 99
+          }
+        ]
+      },
+      {
+        "word": "and",
+        "phonemes": [
+          {
+            "phoneme": "æ",
+            "score": 99
+          },
+          {
+            "phoneme": "n",
+            "score": 100
+          },
+          {
+            "phoneme": "d",
+            "score": 80
+          }
+        ]
+      },
+      {
+        "word": "dance!",
+        "phonemes": [
+          {
+            "phoneme": "d",
+            "score": 90
+          },
+          {
+            "phoneme": "ɑ",
+            "score": 79
+          },
+          {
+            "phoneme": "n",
+            "score": 96
+          },
+          {
+            "phoneme": "s",
+            "score": 93
+          }
+        ]
+      }
+    ]
+  }

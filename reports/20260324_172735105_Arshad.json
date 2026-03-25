@@ -1,0 +1,2384 @@
+{
+  "report_id": "20260324_172735105_Arshad",
+  "child_name": "Arshad",
+  "age_group": "7-8",
+  "level": "Level 4",
+  "questions": [
+    {
+      "question": "Is it a lowercase or an uppercase letter: \n'f'",
+      "answer": "Lower-Case",
+      "options": [
+        "Upper-Case",
+        "Lower-Case",
+        "Don't Know"
+      ]
+    },
+    {
+      "question": "Is it a lowercase or an uppercase letter: \n'K'",
+      "answer": "Upper-Case",
+      "options": [
+        "Upper-Case",
+        "Lower-Case",
+        "Don't Know"
+      ]
+    },
+    {
+      "question": "How many syllables are in the below word \n'rainbow'",
+      "answer": "2",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "1",
+        "5",
+        "Don't Know"
+      ]
+    },
+    {
+      "question": "How many syllables are in the below word \n'dance'",
+      "answer": "1",
+      "options": [
+        "5",
+        "1",
+        "4",
+        "3",
+        "2",
+        "Don't Know"
+      ]
+    },
+    {
+      "question": "Which word rhymes with the below word \n'rat'",
+      "options": [
+        "men",
+        "ten",
+        "then",
+        "fat"
+      ],
+      "answer": "fat"
+    },
+    {
+      "question": "Which word rhymes with the below word \n'bat'",
+      "options": [
+        "sat",
+        "pen",
+        "when",
+        "men"
+      ],
+      "answer": "sat"
+    },
+    {
+      "question": "Read the below Sentence: \nThe stars sparkle in the dark sky, and the moon shines bright like a big light!",
+      "answer": "The stars sparkle in the dark sky, and the moon shines bright like a big light!",
+      "options": []
+    },
+    {
+      "question": "Read the below Sentence: \nThe planets go around the sun like a big dance in space!",
+      "answer": "The planets go around the sun like a big dance in space!",
+      "options": []
+    },
+    {
+      "question": "Read the below Sentence: \nThe rocket zooms up high into the sky, exploring the universe!",
+      "answer": "The rocket zooms up high into the sky, exploring the universe!",
+      "options": []
+    },
+    {
+      "question": "Read the below Sentence: \nThe spaceship flies between the stars, looking for fun adventures!",
+      "answer": "The spaceship flies between the stars, looking for fun adventures!",
+      "options": []
+    }
+  ],
+  "user_answers": {
+    "answer_0": "Lower-Case",
+    "answer_1": "Lower-Case",
+    "answer_2": "2",
+    "answer_3": "1",
+    "answer_4": "fat",
+    "answer_5": "sat",
+    "answer_6": {
+      "overall": 87,
+      "rhythm": 95,
+      "pause_count": 0,
+      "pronunciation": 91,
+      "fluency": 99,
+      "integrity": 94,
+      "speed": 194,
+      "grammar": 89,
+      "word_error": 6,
+      "word_error_list": [
+        {
+          "word": "stars",
+          "score": 5
+        },
+        {
+          "word": "dark",
+          "score": 76
+        },
+        {
+          "word": "sky,",
+          "score": 75
+        },
+        {
+          "word": "and",
+          "score": 73
+        },
+        {
+          "word": "the",
+          "score": 0
+        },
+        {
+          "word": "shines",
+          "score": 79
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 1,
+      "article_error_list": [
+        {
+          "word": "the",
+          "score": 0
+        }
+      ],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 77
+            },
+            {
+              "phoneme": "ə",
+              "score": 76
+            }
+          ]
+        },
+        {
+          "word": "stars",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 94
+            },
+            {
+              "phoneme": "t",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 99
+            },
+            {
+              "phoneme": "r",
+              "score": 99
+            },
+            {
+              "phoneme": "z",
+              "score": 5
+            }
+          ]
+        },
+        {
+          "word": "sparkle",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 73
+            },
+            {
+              "phoneme": "p",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 80
+            },
+            {
+              "phoneme": "r",
+              "score": 99
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 99
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 99
+            }
+          ]
+        },
+        {
+          "word": "dark",
+          "phonemes": [
+            {
+              "phoneme": "d",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 78
+            },
+            {
+              "phoneme": "k",
+              "score": 34
+            }
+          ]
+        },
+        {
+          "word": "sky,",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 79
+            },
+            {
+              "phoneme": "k",
+              "score": 68
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 74
+            }
+          ]
+        },
+        {
+          "word": "and",
+          "phonemes": [
+            {
+              "phoneme": "ə",
+              "score": 96
+            },
+            {
+              "phoneme": "n",
+              "score": 60
+            },
+            {
+              "phoneme": "d",
+              "score": 51
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 0
+            },
+            {
+              "phoneme": "ə",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "word": "moon",
+          "phonemes": [
+            {
+              "phoneme": "m",
+              "score": 86
+            },
+            {
+              "phoneme": "u",
+              "score": 80
+            },
+            {
+              "phoneme": "n",
+              "score": 80
+            }
+          ]
+        },
+        {
+          "word": "shines",
+          "phonemes": [
+            {
+              "phoneme": "ʃ",
+              "score": 99
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 97
+            },
+            {
+              "phoneme": "n",
+              "score": 96
+            },
+            {
+              "phoneme": "z",
+              "score": 9
+            }
+          ]
+        },
+        {
+          "word": "bright",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 44
+            },
+            {
+              "phoneme": "r",
+              "score": 91
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 97
+            },
+            {
+              "phoneme": "t",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 98
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 82
+            },
+            {
+              "phoneme": "k",
+              "score": 85
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "phonemes": [
+            {
+              "phoneme": "e",
+              "score": 94
+            }
+          ]
+        },
+        {
+          "word": "big",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 66
+            },
+            {
+              "phoneme": "ɡ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "light!",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 42
+            },
+            {
+              "phoneme": "t",
+              "score": 98
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 100,
+      "Skill 1 (Vowel sounds)": 86,
+      "Skill 2 (Fricatives and Affricates)": 87,
+      "Skill 3 (Consonant clusters)": 68,
+      "Skill 4 (Intrusion and Elision)": 72,
+      "Skill 5 (Diphthongs)": 94
+    },
+    "answer_7": {
+      "overall": 92,
+      "rhythm": 97,
+      "pause_count": 0,
+      "pronunciation": 90,
+      "fluency": 100,
+      "integrity": 100,
+      "speed": 171,
+      "grammar": 89,
+      "word_error": 4,
+      "word_error_list": [
+        {
+          "word": "around",
+          "score": 94
+        },
+        {
+          "word": "the",
+          "score": 73
+        },
+        {
+          "word": "like",
+          "score": 68
+        },
+        {
+          "word": "dance",
+          "score": 74
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 1,
+      "article_error_list": [
+        {
+          "word": "a",
+          "score": 97
+        }
+      ],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "planets",
+          "phonemes": [
+            {
+              "phoneme": "p",
+              "score": 100
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "æ",
+              "score": 76
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "t",
+              "score": 99
+            },
+            {
+              "phoneme": "s",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "go",
+          "phonemes": [
+            {
+              "phoneme": "ɡ",
+              "score": 100
+            },
+            {
+              "phoneme": "oʊ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "around",
+          "phonemes": [
+            {
+              "phoneme": "ə",
+              "score": 100
+            },
+            {
+              "phoneme": "r",
+              "score": 100
+            },
+            {
+              "phoneme": "aʊ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            },
+            {
+              "phoneme": "d",
+              "score": 59
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 19
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "sun",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 76
+            },
+            {
+              "phoneme": "ʌ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 91
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 75
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 73
+            },
+            {
+              "phoneme": "k",
+              "score": 50
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "phonemes": [
+            {
+              "phoneme": "e",
+              "score": 97
+            }
+          ]
+        },
+        {
+          "word": "big",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 99
+            },
+            {
+              "phoneme": "ɡ",
+              "score": 86
+            }
+          ]
+        },
+        {
+          "word": "dance",
+          "phonemes": [
+            {
+              "phoneme": "d",
+              "score": 72
+            },
+            {
+              "phoneme": "æ",
+              "score": 66
+            },
+            {
+              "phoneme": "n",
+              "score": 72
+            },
+            {
+              "phoneme": "s",
+              "score": 79
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 79
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "space!",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 84
+            },
+            {
+              "phoneme": "p",
+              "score": 2
+            },
+            {
+              "phoneme": "e",
+              "score": 75
+            },
+            {
+              "phoneme": "s",
+              "score": 94
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 99.05943298339844,
+      "Skill 1 (Vowel sounds)": 87,
+      "Skill 2 (Fricatives and Affricates)": 88,
+      "Skill 3 (Consonant clusters)": 69,
+      "Skill 4 (Intrusion and Elision)": 73,
+      "Skill 5 (Diphthongs)": 85
+    },
+    "answer_8": {
+      "overall": 79,
+      "rhythm": 88,
+      "pause_count": 0,
+      "pronunciation": 75,
+      "fluency": 100,
+      "integrity": 91,
+      "speed": 152,
+      "grammar": 0,
+      "word_error": 4,
+      "word_error_list": [
+        {
+          "word": "the",
+          "score": 15
+        },
+        {
+          "word": "rocket",
+          "score": 22
+        },
+        {
+          "word": "into",
+          "score": 69
+        },
+        {
+          "word": "universe!",
+          "score": 70
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 2,
+      "article_error_list": [
+        {
+          "word": "the",
+          "score": 15
+        },
+        {
+          "word": "the",
+          "score": 82
+        }
+      ],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 99
+            },
+            {
+              "phoneme": "ə",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "word": "rocket",
+          "phonemes": [
+            {
+              "phoneme": "r",
+              "score": 68
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 2
+            },
+            {
+              "phoneme": "k",
+              "score": 6
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 60
+            },
+            {
+              "phoneme": "t",
+              "score": 49
+            }
+          ]
+        },
+        {
+          "word": "zooms",
+          "phonemes": [
+            {
+              "phoneme": "z",
+              "score": 80
+            },
+            {
+              "phoneme": "u",
+              "score": 98
+            },
+            {
+              "phoneme": "m",
+              "score": 98
+            },
+            {
+              "phoneme": "z",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "up",
+          "phonemes": [
+            {
+              "phoneme": "ʌ",
+              "score": 77
+            },
+            {
+              "phoneme": "p",
+              "score": 77
+            }
+          ]
+        },
+        {
+          "word": "high",
+          "phonemes": [
+            {
+              "phoneme": "h",
+              "score": 99
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "into",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 90
+            },
+            {
+              "phoneme": "n",
+              "score": 51
+            },
+            {
+              "phoneme": "t",
+              "score": 66
+            },
+            {
+              "phoneme": "u",
+              "score": 54
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 1
+            },
+            {
+              "phoneme": "ə",
+              "score": 6
+            }
+          ]
+        },
+        {
+          "word": "sky,",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 77
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 94
+            }
+          ]
+        },
+        {
+          "word": "exploring",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 94
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "s",
+              "score": 100
+            },
+            {
+              "phoneme": "p",
+              "score": 94
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "ɔ",
+              "score": 100
+            },
+            {
+              "phoneme": "r",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 78
+            },
+            {
+              "phoneme": "ŋ",
+              "score": 70
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 89
+            },
+            {
+              "phoneme": "ə",
+              "score": 78
+            }
+          ]
+        },
+        {
+          "word": "universe!",
+          "phonemes": [
+            {
+              "phoneme": "j",
+              "score": 70
+            },
+            {
+              "phoneme": "u",
+              "score": 52
+            },
+            {
+              "phoneme": "n",
+              "score": 97
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 99
+            },
+            {
+              "phoneme": "v",
+              "score": 100
+            },
+            {
+              "phoneme": "ɝ",
+              "score": 99
+            },
+            {
+              "phoneme": "r",
+              "score": 99
+            },
+            {
+              "phoneme": "s",
+              "score": 90
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 85.27887725830078,
+      "Skill 1 (Vowel sounds)": 57,
+      "Skill 2 (Fricatives and Affricates)": 80,
+      "Skill 3 (Consonant clusters)": 90,
+      "Skill 4 (Intrusion and Elision)": 82,
+      "Skill 5 (Diphthongs)": 99
+    },
+    "answer_9": {
+      "overall": 94,
+      "rhythm": 98,
+      "pause_count": 0,
+      "pronunciation": 93,
+      "fluency": 100,
+      "integrity": 100,
+      "speed": 100,
+      "grammar": 89,
+      "word_error": 2,
+      "word_error_list": [
+        {
+          "word": "spaceship",
+          "score": 76
+        },
+        {
+          "word": "for",
+          "score": 70
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 0,
+      "article_error_list": [],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "spaceship",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 100
+            },
+            {
+              "phoneme": "p",
+              "score": 100
+            },
+            {
+              "phoneme": "e",
+              "score": 95
+            },
+            {
+              "phoneme": "s",
+              "score": 4
+            },
+            {
+              "phoneme": "ʃ",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 79
+            },
+            {
+              "phoneme": "p",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "word": "flies",
+          "phonemes": [
+            {
+              "phoneme": "f",
+              "score": 99
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "z",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "between",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 80
+            },
+            {
+              "phoneme": "t",
+              "score": 69
+            },
+            {
+              "phoneme": "w",
+              "score": 100
+            },
+            {
+              "phoneme": "i",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "stars",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 100
+            },
+            {
+              "phoneme": "t",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 99
+            },
+            {
+              "phoneme": "z",
+              "score": 95
+            }
+          ]
+        },
+        {
+          "word": "looking",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "ʊ",
+              "score": 100
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "ŋ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "for",
+          "phonemes": [
+            {
+              "phoneme": "f",
+              "score": 25
+            },
+            {
+              "phoneme": "ɔ",
+              "score": 74
+            },
+            {
+              "phoneme": "r",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "fun",
+          "phonemes": [
+            {
+              "phoneme": "f",
+              "score": 100
+            },
+            {
+              "phoneme": "ʌ",
+              "score": 73
+            },
+            {
+              "phoneme": "n",
+              "score": 56
+            }
+          ]
+        },
+        {
+          "word": "adventures!",
+          "phonemes": [
+            {
+              "phoneme": "ə",
+              "score": 69
+            },
+            {
+              "phoneme": "d",
+              "score": 100
+            },
+            {
+              "phoneme": "v",
+              "score": 100
+            },
+            {
+              "phoneme": "ɛ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            },
+            {
+              "phoneme": "tʃ",
+              "score": 64
+            },
+            {
+              "phoneme": "ə",
+              "score": 94
+            },
+            {
+              "phoneme": "z",
+              "score": 95
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 100,
+      "Skill 1 (Vowel sounds)": 80,
+      "Skill 2 (Fricatives and Affricates)": 89,
+      "Skill 3 (Consonant clusters)": 76,
+      "Skill 4 (Intrusion and Elision)": 80,
+      "Skill 5 (Diphthongs)": 100
+    }
+  },
+  "pronunciation_metrics": [
+    {
+      "overall": 87,
+      "rhythm": 95,
+      "pause_count": 0,
+      "pronunciation": 91,
+      "fluency": 99,
+      "integrity": 94,
+      "speed": 194,
+      "grammar": 89,
+      "word_error": 6,
+      "word_error_list": [
+        {
+          "word": "stars",
+          "score": 5
+        },
+        {
+          "word": "dark",
+          "score": 76
+        },
+        {
+          "word": "sky,",
+          "score": 75
+        },
+        {
+          "word": "and",
+          "score": 73
+        },
+        {
+          "word": "the",
+          "score": 0
+        },
+        {
+          "word": "shines",
+          "score": 79
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 1,
+      "article_error_list": [
+        {
+          "word": "the",
+          "score": 0
+        }
+      ],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 77
+            },
+            {
+              "phoneme": "ə",
+              "score": 76
+            }
+          ]
+        },
+        {
+          "word": "stars",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 94
+            },
+            {
+              "phoneme": "t",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 99
+            },
+            {
+              "phoneme": "r",
+              "score": 99
+            },
+            {
+              "phoneme": "z",
+              "score": 5
+            }
+          ]
+        },
+        {
+          "word": "sparkle",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 73
+            },
+            {
+              "phoneme": "p",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 80
+            },
+            {
+              "phoneme": "r",
+              "score": 99
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 99
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 99
+            }
+          ]
+        },
+        {
+          "word": "dark",
+          "phonemes": [
+            {
+              "phoneme": "d",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 78
+            },
+            {
+              "phoneme": "k",
+              "score": 34
+            }
+          ]
+        },
+        {
+          "word": "sky,",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 79
+            },
+            {
+              "phoneme": "k",
+              "score": 68
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 74
+            }
+          ]
+        },
+        {
+          "word": "and",
+          "phonemes": [
+            {
+              "phoneme": "ə",
+              "score": 96
+            },
+            {
+              "phoneme": "n",
+              "score": 60
+            },
+            {
+              "phoneme": "d",
+              "score": 51
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 0
+            },
+            {
+              "phoneme": "ə",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "word": "moon",
+          "phonemes": [
+            {
+              "phoneme": "m",
+              "score": 86
+            },
+            {
+              "phoneme": "u",
+              "score": 80
+            },
+            {
+              "phoneme": "n",
+              "score": 80
+            }
+          ]
+        },
+        {
+          "word": "shines",
+          "phonemes": [
+            {
+              "phoneme": "ʃ",
+              "score": 99
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 97
+            },
+            {
+              "phoneme": "n",
+              "score": 96
+            },
+            {
+              "phoneme": "z",
+              "score": 9
+            }
+          ]
+        },
+        {
+          "word": "bright",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 44
+            },
+            {
+              "phoneme": "r",
+              "score": 91
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 97
+            },
+            {
+              "phoneme": "t",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 98
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 82
+            },
+            {
+              "phoneme": "k",
+              "score": 85
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "phonemes": [
+            {
+              "phoneme": "e",
+              "score": 94
+            }
+          ]
+        },
+        {
+          "word": "big",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 66
+            },
+            {
+              "phoneme": "ɡ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "light!",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 42
+            },
+            {
+              "phoneme": "t",
+              "score": 98
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 100,
+      "Skill 1 (Vowel sounds)": 86,
+      "Skill 2 (Fricatives and Affricates)": 87,
+      "Skill 3 (Consonant clusters)": 68,
+      "Skill 4 (Intrusion and Elision)": 72,
+      "Skill 5 (Diphthongs)": 94
+    },
+    {
+      "overall": 92,
+      "rhythm": 97,
+      "pause_count": 0,
+      "pronunciation": 90,
+      "fluency": 100,
+      "integrity": 100,
+      "speed": 171,
+      "grammar": 89,
+      "word_error": 4,
+      "word_error_list": [
+        {
+          "word": "around",
+          "score": 94
+        },
+        {
+          "word": "the",
+          "score": 73
+        },
+        {
+          "word": "like",
+          "score": 68
+        },
+        {
+          "word": "dance",
+          "score": 74
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 1,
+      "article_error_list": [
+        {
+          "word": "a",
+          "score": 97
+        }
+      ],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "planets",
+          "phonemes": [
+            {
+              "phoneme": "p",
+              "score": 100
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "æ",
+              "score": 76
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "t",
+              "score": 99
+            },
+            {
+              "phoneme": "s",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "go",
+          "phonemes": [
+            {
+              "phoneme": "ɡ",
+              "score": 100
+            },
+            {
+              "phoneme": "oʊ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "around",
+          "phonemes": [
+            {
+              "phoneme": "ə",
+              "score": 100
+            },
+            {
+              "phoneme": "r",
+              "score": 100
+            },
+            {
+              "phoneme": "aʊ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            },
+            {
+              "phoneme": "d",
+              "score": 59
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 19
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "sun",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 76
+            },
+            {
+              "phoneme": "ʌ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 91
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 75
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 73
+            },
+            {
+              "phoneme": "k",
+              "score": 50
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "phonemes": [
+            {
+              "phoneme": "e",
+              "score": 97
+            }
+          ]
+        },
+        {
+          "word": "big",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 99
+            },
+            {
+              "phoneme": "ɡ",
+              "score": 86
+            }
+          ]
+        },
+        {
+          "word": "dance",
+          "phonemes": [
+            {
+              "phoneme": "d",
+              "score": 72
+            },
+            {
+              "phoneme": "æ",
+              "score": 66
+            },
+            {
+              "phoneme": "n",
+              "score": 72
+            },
+            {
+              "phoneme": "s",
+              "score": 79
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 79
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "space!",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 84
+            },
+            {
+              "phoneme": "p",
+              "score": 2
+            },
+            {
+              "phoneme": "e",
+              "score": 75
+            },
+            {
+              "phoneme": "s",
+              "score": 94
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 99.05943298339844,
+      "Skill 1 (Vowel sounds)": 87,
+      "Skill 2 (Fricatives and Affricates)": 88,
+      "Skill 3 (Consonant clusters)": 69,
+      "Skill 4 (Intrusion and Elision)": 73,
+      "Skill 5 (Diphthongs)": 85
+    },
+    {
+      "overall": 79,
+      "rhythm": 88,
+      "pause_count": 0,
+      "pronunciation": 75,
+      "fluency": 100,
+      "integrity": 91,
+      "speed": 152,
+      "grammar": 0,
+      "word_error": 4,
+      "word_error_list": [
+        {
+          "word": "the",
+          "score": 15
+        },
+        {
+          "word": "rocket",
+          "score": 22
+        },
+        {
+          "word": "into",
+          "score": 69
+        },
+        {
+          "word": "universe!",
+          "score": 70
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 2,
+      "article_error_list": [
+        {
+          "word": "the",
+          "score": 15
+        },
+        {
+          "word": "the",
+          "score": 82
+        }
+      ],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 99
+            },
+            {
+              "phoneme": "ə",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "word": "rocket",
+          "phonemes": [
+            {
+              "phoneme": "r",
+              "score": 68
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 2
+            },
+            {
+              "phoneme": "k",
+              "score": 6
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 60
+            },
+            {
+              "phoneme": "t",
+              "score": 49
+            }
+          ]
+        },
+        {
+          "word": "zooms",
+          "phonemes": [
+            {
+              "phoneme": "z",
+              "score": 80
+            },
+            {
+              "phoneme": "u",
+              "score": 98
+            },
+            {
+              "phoneme": "m",
+              "score": 98
+            },
+            {
+              "phoneme": "z",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "up",
+          "phonemes": [
+            {
+              "phoneme": "ʌ",
+              "score": 77
+            },
+            {
+              "phoneme": "p",
+              "score": 77
+            }
+          ]
+        },
+        {
+          "word": "high",
+          "phonemes": [
+            {
+              "phoneme": "h",
+              "score": 99
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "into",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 90
+            },
+            {
+              "phoneme": "n",
+              "score": 51
+            },
+            {
+              "phoneme": "t",
+              "score": 66
+            },
+            {
+              "phoneme": "u",
+              "score": 54
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 1
+            },
+            {
+              "phoneme": "ə",
+              "score": 6
+            }
+          ]
+        },
+        {
+          "word": "sky,",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 77
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 94
+            }
+          ]
+        },
+        {
+          "word": "exploring",
+          "phonemes": [
+            {
+              "phoneme": "ɪ",
+              "score": 94
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "s",
+              "score": 100
+            },
+            {
+              "phoneme": "p",
+              "score": 94
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "ɔ",
+              "score": 100
+            },
+            {
+              "phoneme": "r",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 78
+            },
+            {
+              "phoneme": "ŋ",
+              "score": 70
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 89
+            },
+            {
+              "phoneme": "ə",
+              "score": 78
+            }
+          ]
+        },
+        {
+          "word": "universe!",
+          "phonemes": [
+            {
+              "phoneme": "j",
+              "score": 70
+            },
+            {
+              "phoneme": "u",
+              "score": 52
+            },
+            {
+              "phoneme": "n",
+              "score": 97
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 99
+            },
+            {
+              "phoneme": "v",
+              "score": 100
+            },
+            {
+              "phoneme": "ɝ",
+              "score": 99
+            },
+            {
+              "phoneme": "r",
+              "score": 99
+            },
+            {
+              "phoneme": "s",
+              "score": 90
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 85.27887725830078,
+      "Skill 1 (Vowel sounds)": 57,
+      "Skill 2 (Fricatives and Affricates)": 80,
+      "Skill 3 (Consonant clusters)": 90,
+      "Skill 4 (Intrusion and Elision)": 82,
+      "Skill 5 (Diphthongs)": 99
+    },
+    {
+      "overall": 94,
+      "rhythm": 98,
+      "pause_count": 0,
+      "pronunciation": 93,
+      "fluency": 100,
+      "integrity": 100,
+      "speed": 100,
+      "grammar": 89,
+      "word_error": 2,
+      "word_error_list": [
+        {
+          "word": "spaceship",
+          "score": 76
+        },
+        {
+          "word": "for",
+          "score": 70
+        }
+      ],
+      "verb_error": 0,
+      "verb_error_list": [],
+      "article_error": 0,
+      "article_error_list": [],
+      "phoneme_scores": [
+        {
+          "word": "The",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "spaceship",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 100
+            },
+            {
+              "phoneme": "p",
+              "score": 100
+            },
+            {
+              "phoneme": "e",
+              "score": 95
+            },
+            {
+              "phoneme": "s",
+              "score": 4
+            },
+            {
+              "phoneme": "ʃ",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 79
+            },
+            {
+              "phoneme": "p",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "word": "flies",
+          "phonemes": [
+            {
+              "phoneme": "f",
+              "score": 99
+            },
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "aɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "z",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "between",
+          "phonemes": [
+            {
+              "phoneme": "b",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 80
+            },
+            {
+              "phoneme": "t",
+              "score": 69
+            },
+            {
+              "phoneme": "w",
+              "score": 100
+            },
+            {
+              "phoneme": "i",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "the",
+          "phonemes": [
+            {
+              "phoneme": "ð",
+              "score": 100
+            },
+            {
+              "phoneme": "ə",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "stars",
+          "phonemes": [
+            {
+              "phoneme": "s",
+              "score": 100
+            },
+            {
+              "phoneme": "t",
+              "score": 100
+            },
+            {
+              "phoneme": "ɑ",
+              "score": 99
+            },
+            {
+              "phoneme": "z",
+              "score": 95
+            }
+          ]
+        },
+        {
+          "word": "looking",
+          "phonemes": [
+            {
+              "phoneme": "l",
+              "score": 100
+            },
+            {
+              "phoneme": "ʊ",
+              "score": 100
+            },
+            {
+              "phoneme": "k",
+              "score": 100
+            },
+            {
+              "phoneme": "ɪ",
+              "score": 100
+            },
+            {
+              "phoneme": "ŋ",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "for",
+          "phonemes": [
+            {
+              "phoneme": "f",
+              "score": 25
+            },
+            {
+              "phoneme": "ɔ",
+              "score": 74
+            },
+            {
+              "phoneme": "r",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "word": "fun",
+          "phonemes": [
+            {
+              "phoneme": "f",
+              "score": 100
+            },
+            {
+              "phoneme": "ʌ",
+              "score": 73
+            },
+            {
+              "phoneme": "n",
+              "score": 56
+            }
+          ]
+        },
+        {
+          "word": "adventures!",
+          "phonemes": [
+            {
+              "phoneme": "ə",
+              "score": 69
+            },
+            {
+              "phoneme": "d",
+              "score": 100
+            },
+            {
+              "phoneme": "v",
+              "score": 100
+            },
+            {
+              "phoneme": "ɛ",
+              "score": 100
+            },
+            {
+              "phoneme": "n",
+              "score": 100
+            },
+            {
+              "phoneme": "tʃ",
+              "score": 64
+            },
+            {
+              "phoneme": "ə",
+              "score": 94
+            },
+            {
+              "phoneme": "z",
+              "score": 95
+            }
+          ]
+        }
+      ],
+      "pitch": 100,
+      "volume": 100,
+      "Skill 1 (Vowel sounds)": 80,
+      "Skill 2 (Fricatives and Affricates)": 89,
+      "Skill 3 (Consonant clusters)": 76,
+      "Skill 4 (Intrusion and Elision)": 80,
+      "Skill 5 (Diphthongs)": 100
+    }
+  ],
+  "pronunciation_feedbacks": [
+    "Arshad's pronunciation skills show a strong overall performance with a score of 87. He demonstrates particular strength in words like \"stars\" (85), \"sparkle\" (94), and \"moon\" (83), indicating solid phonics awareness and articulation. However, there are areas for improvement, notably in the words \"sky,\" where he scored 75, and \"dark,\" with a score of 76, revealing challenges in certain phoneme pronunciations. The word \"and\" also reflects a need for focus, scoring 73. Additionally, Arshad struggled significantly with \"the,\" scoring 0, indicating a need to practice this common word. Overall, his fluency (99) and rhythm (95) are excellent, suggesting that with targeted practice on specific phonemes, especially those in higher-frequency words, Arshad can further enhance his reading skills.",
+    "Arshad exhibits strong overall pronunciation skills with an overall score of 92. His fluency is perfect at 100, and he shows good rhythm in his speech, scoring 97. He excels particularly in words like \"the\" (100), \"go\" (100), and \"planets\" (97), which indicate a solid understanding of phoneme production for these words. Conversely, Arshad shows some weaknesses in the pronunciation of \"around\" (94) where the phoneme \"d\" scored only 59, indicating a need for improvement in ending consonant sounds. His performance on \"the\" was also notably weaker with a score of 73 mainly due to the \"th\" sound which scored only 19. Additionally, he struggled with \"like\" (68), particularly with the sounds \"l\" (75) and \"k\" (50). Overall, Arshad demonstrates a strong foundation in phonics awareness, yet he should focus on refining his pronunciation of certain consonant and vowel combinations to enhance clarity in his speech.",
+    "Arshad demonstrates a mixed level of pronunciation skills and phonics awareness, with some strengths and weaknesses across different words. \n\nFor the word \"the,\" Arshad scored 15, indicating significant difficulty with pronunciation, particularly with the phonemes /ð/ and /ə/. Improvement in recognizing and articulating this common word is necessary.\n\nThe word \"rocket\" posed a challenge as well, with a score of 22. The phonemes /ɑ/ and /k/ were notably weak, suggesting a need for targeted practice in these areas to enhance phonetic accuracy.\n\nConversely, Arshad showed strength in pronouncing \"zooms,\" achieving a high score of 95, indicating excellent phoneme recognition and articulation for /z/, /oo/, /m/, and /s/. This reflects good phonics understanding.\n\nThe words \"high\" (99) and \"sky\" (92) also received strong scores, showcasing Arshad's capability with these phonetic sounds. Additionally, \"exploring\" (94) and \"universe\" (90) were pronounced well, indicating strong phonics awareness with longer words.\n\nOverall, Arshad's pronunciation skill score is 79, revealing that while there are notable strengths, especially with clearer sounds and longer words, significant improvement is needed in recognizing and pronouncing less familiar phonetic combinations. Focused practice on specific weak areas, particularly with simple common words, will greatly benefit Arshad's overall phonics development.",
+    "Arshad demonstrated strong pronunciation skills overall, achieving a score of 94. His strength lies in the clarity of sounds in most words. Notable strengths include \"The,\" \"flies,\" and \"looking,\" where he scored 100 in pronunciation. \n\nHowever, Arshad showed weaknesses with the words \"spaceship,\" \"for,\" and \"fun,\" receiving scores of 76, 70, and 81 respectively. Specifically, he struggled with the phoneme in \"spaceship,\" missing some sounds. In \"for,\" both \"f\" and \"ɔ\" showed lower scores, indicating difficulty with those phonemes. The phoneme \"n\" in \"fun\" also needs attention as it received a score of 56.\n\nIn summary, Arshad displays a solid foundation in pronunciation, particularly in stress and rhythm, but should focus on enhancing his phonics awareness with particular phonemes for continuous improvement."
+  ],
+  "final_feedback": "Arshad has demonstrated a strong understanding of phonological concepts in various areas assessed. \n\nIn the Identification of Uppercase/Lowercase Letters, Arshad correctly identified 1 out of 2 prompts, showing a good grasp but needing improvement with uppercase letters. \n\nIn terms of Syllable Identification, Arshad accurately identified syllables in both tests, indicating a solid understanding of this aspect of phonological awareness. \n\nFor Rhyming Words, Arshad displayed excellent skills, correctly identifying all given rhymes, which reflects a strong ability to recognize phonetic patterns.\n\nRegarding Pronunciation Accuracy, Arshad's overall score is commendable at 87, with particularly high fluency (99) and integrity (94). However, he faced challenges with certain words, such as 'stars' and 'the,' showcasing areas for improvement. The assessment of individual phonemes revealed inconsistencies, particularly with certain consonant sounds, suggesting the need for targeted practice in consonant clusters (68).\n\nTo elevate his skills to the next level, it is recommended that Arshad attend the academy 4 days a week for 6 weeks, focusing on targeted phonics and pronunciation exercises to enhance his consonant accuracy and letter identification skills further.",
+  "overall_score": 88.0,
+  "sound_focus": {
+    "all_good": false,
+    "practice_sounds": [
+      "tʃ",
+      "p",
+      "ð",
+      "z",
+      "j",
+      "u",
+      "æ",
+      "k",
+      "ɑ",
+      "ə",
+      "f"
+    ],
+    "summary_line": "Focus extra practice on: tʃ, p, ð, z, j, u …",
+    "detail_paragraph": "Based on average scores for each speech sound (phoneme) in your recordings, these sounds scored below 75 and deserve targeted practice: tʃ (64), p (68), ð (68), z (69), j (70), u (71), æ (71), k (71), …. Try minimal-pair listening, slow repetition, and mirroring a clear model for these sounds."
+  },
+  "session_id": "38cbe1f8-c3cf-4609-a614-605fe0866427",
+  "timestamp": "2026-03-24T17:27:35.106117"
+}
