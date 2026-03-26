@@ -23,4 +23,5 @@ requests
 sounddevice
 soundfile
 uvicorn[standard]
-PyAudio
+# PyAudio omitted — only used in temp.py; requires PortAudio headers to build on Linux (breaks Render).
+# sounddevice: lazy-imported in record_and_analyze.start_recording() so API startup does not need PortAudio.

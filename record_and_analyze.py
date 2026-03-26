@@ -1,4 +1,3 @@
-import sounddevice as sd
 import numpy as np
 import soundfile as sf
 import os
@@ -78,6 +77,21 @@ _DEFAULT_SKILLS = {
 
 
 def start_recording():
+    """
+    Local microphone capture (Streamlit / desktop only). Requires PortAudio.
+
+    FastAPI uses browser uploads → /api/audio/upload; it does not call this.
+    Import sounddevice only here so production (e.g. Render) can load this module without PortAudio.
+    """
+    try:
+        import sounddevice as sd
+    except ImportError as e:
+        print(f"❌ sounddevice not installed: {e}")
+        return
+    except OSError as e:
+        print(f"❌ PortAudio not available: {e}")
+        return
+
     duration = 13  # seconds
     rate = 44100
     channels = 1
