@@ -13,7 +13,7 @@ A kid-friendly phonics assessment platform with AI-powered speech analysis, buil
 ├── record_and_analyze.py  # Audio analysis pipeline
 ├── .env                   # Environment variables
 ├── phonics_questions_age_5_6.json  # Question bank
-├── backend_requirements.txt
+├── requirements.txt       # Python deps (pip install -r requirements.txt)
 └── frontend/              # Next.js frontend
     ├── app/
     │   ├── page.tsx           # Landing page
@@ -30,7 +30,7 @@ A kid-friendly phonics assessment platform with AI-powered speech analysis, buil
 
 ```bash
 cd "Initial Assessment"
-pip install -r backend_requirements.txt
+pip install -r requirements.txt
 python api_server.py
 ```
 
