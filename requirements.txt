@@ -1,0 +1,21 @@
+# Phonics assessment API (api_server.py) — pinned for reproducible deploys.
+# Install: pip install -r requirements.txt
+
+certifi==2024.12.14
+fastapi==0.115.8
+librosa==0.10.2
+matplotlib==3.9.4
+numpy==2.2.2
+openai==1.60.0
+openpyxl==3.1.5
+pandas==2.2.3
+psycopg[binary]==3.2.4
+pydantic==2.10.6
+pydub==0.25.1
+python-dotenv==1.0.1
+razorpay==1.4.2
+reportlab==4.2.5
+requests==2.32.3
+sounddevice==0.5.1
+soundfile==0.12.1
+uvicorn[standard]==0.34.0

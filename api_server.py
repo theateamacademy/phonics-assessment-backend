@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 from pydantic import BaseModel
 from typing import Optional, List, Literal
+from contextlib import asynccontextmanager
 import json
 import random
 import os
@@ -14,6 +15,8 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 load_dotenv()
+
+import database as phonics_db
 
 import razorpay
 import llm
@@ -27,14 +30,36 @@ RAZORPAY_KEY_SECRET = os.getenv("RAZORPAY_KEY_SECRET", "")
 razorpay_client = razorpay.Client(auth=(RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET))
 
 REPORTS_DIR = "reports"
-PAYMENTS_FILE = "payments.json"
 os.makedirs(REPORTS_DIR, exist_ok=True)
 
-app = FastAPI(title="ATeam Kids Academy - Phonics Assessment API")
+# Official frontend only (override with CORS_ORIGINS=comma,separated for local dev)
+_CORS_DEFAULT = "https://phonics-assessment.theateamkidsacademy.in"
+
+
+def _cors_allow_origins() -> List[str]:
+    raw = os.getenv("CORS_ORIGINS", "").strip()
+    if raw:
+        return [o.strip().rstrip("/") for o in raw.split(",") if o.strip()]
+    return [_CORS_DEFAULT.rstrip("/")]
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    phonics_db.init_db()
+    yield
+
+
+app = FastAPI(
+    title="ATeam Kids Academy - Phonics Assessment API",
+    lifespan=lifespan,
+)
+
+_CORS_ORIGINS = _cors_allow_origins()
+print(f"[phonics-backend] CORS allow_origins: {_CORS_ORIGINS}", flush=True)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=_CORS_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -112,14 +137,11 @@ AMOUNT_REPORT_UNLOCK_PAISE = 100
 # --- Payments Storage Helpers ---
 
 def _load_payments() -> dict:
-    if os.path.exists(PAYMENTS_FILE):
-        with open(PAYMENTS_FILE, "r") as f:
-            return json.load(f)
-    return {}
+    return _normalize_payment_store(phonics_db.load_payment_store())
+
 
 def _save_payments(data: dict):
-    with open(PAYMENTS_FILE, "w") as f:
-        json.dump(data, f, indent=2)
+    phonics_db.save_payment_store(_normalize_payment_store(data))
 
 
 def _normalize_payment_store(raw: dict) -> dict:
