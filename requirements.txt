@@ -1,25 +1,25 @@
-# Phonics assessment API (api_server.py) — pinned for reproducible deploys.
+# Phonics assessment API (api_server.py)
 # Install: pip install -r requirements.txt
 #
-# This is the only dependency file for the backend (replaces backend_requirements.txt).
+# Unpinned so pip can choose wheels for your OS/Python (avoids long source builds, e.g. matplotlib).
 
-certifi==2024.12.14
-fastapi==0.115.8
-librosa==0.10.2
-matplotlib==3.9.4
-numpy==2.2.2
-openai==1.60.0
-openpyxl==3.1.5
-pandas==2.2.3
-Pillow==11.1.0
-psycopg[binary]==3.2.4
-pydantic==2.10.6
-pydub==0.25.1
-python-dotenv==1.0.1
-python-multipart==0.0.20
-razorpay==1.4.2
-reportlab==4.2.5
-requests==2.32.3
-sounddevice==0.5.1
-soundfile==0.12.1
-uvicorn[standard]==0.34.0
+certifi
+fastapi
+librosa
+matplotlib
+numpy
+openai
+openpyxl
+pandas
+Pillow
+psycopg[binary]
+pydantic
+pydub
+python-dotenv
+python-multipart
+razorpay
+reportlab
+requests
+sounddevice
+soundfile
+uvicorn[standard]
